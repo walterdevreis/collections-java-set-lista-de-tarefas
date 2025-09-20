@@ -11,3 +11,17 @@
 * marcarTarefaConcluida(String descricao): Marca uma tarefa como concluída de acordo com a descrição.
 * marcarTarefaPendente(String descricao): Marca uma tarefa como pendente de acordo com a descrição.
 * limparListaTarefas(): Remove todas as tarefas da lista de tarefas.
+
+## Tecnologias utilizadas
+- Java
+- Intellij IDEA Community Edition
+- Git
+
+## Implantação 
+- GitHub
+
+# Autor
+Walter Reis
+
+# Linkedin
+https://www.linkedin.com/in/walter-r-1b606880/
